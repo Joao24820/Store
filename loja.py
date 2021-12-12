@@ -1,6 +1,6 @@
 import  math
 
-print('======== LOJAS JOÃO ========')
+print('======== LOJAS SKY ========')
 nome=str(input('Seja bem vindo, qual o nome do cliente: '))
 tel=int(input('sr {} informe o seu numero de telefone com o DDD:'.format(nome)))
 ender=str(input('Sr {} informe o seu endereço atual:'.format(nome)))
